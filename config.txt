@@ -1,0 +1,9 @@
+receptor = Q9H4B7_TBB1_HUMAN.pdbqt
+ligand = Eribulin.pdbqt
+center_x = -5.418
+center_y = -2.669
+center_z = 1.706
+size_x = 53.4
+size_y = 74.1666666667
+size_z = 72.6833333333
+out = Eribulin_out.pdbqt
