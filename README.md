@@ -8,4 +8,4 @@
 ## Resources include:
 - .pdb and .pdbqt files used in the docking procedure
 - the output complex and PLIP analysis result
-- screenshot of output figures and config document
+- screenshot of output figures, original page of job done by PLIP, and config document
